@@ -1,1 +1,13 @@
-file2
+public class file2
+{
+	public static void sayhi()
+	{
+		System.out.println("don't say hi");
+	}
+
+	public static void sleep()
+	{
+		System.out.println("sleeping");
+	}
+
+}
